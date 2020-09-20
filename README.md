@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=reisub0" alt="reisub0" />
 </p>
 
-<h3> hello There.</h3>
+<h3> Hello There.</h3>
 
 <img src="https://github.com/ayushkumar-25/ayushkumar-25/blob/master/aboutMe.png">
 
