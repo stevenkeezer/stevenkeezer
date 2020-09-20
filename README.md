@@ -1,6 +1,4 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=reisub0" alt="reisub0" />
-</p>
+
 
 <h3> Hello There.</h3>
 
@@ -42,22 +40,18 @@
 
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-- 💻 [Sadie Programming Language](https://github.com/sadie-lang/Sadie)
+- 💻 [cropswap](https://github.com/stevenkeezer/cropswap)
 
 
 
 I'm always interested in meeting new people, so feel free to reach out to me using the links below.
 
 <p align="center">
-  <a href="mailto:reisub0@gmail.com"><img src="https://image.flaticon.com/icons/svg/725/725643.svg" height="20" width="20" /></a>
+  <a href="mailto:stevengkeezer@gmail.com"><img src="https://image.flaticon.com/icons/svg/725/725643.svg" height="20" width="20" /></a>
   <a href="https://linkedin.com/in/govind-kp"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20"     width="20" /></a>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=stevenkeezer&show_icons=true" alt="reisub0" /> 
 
-</p>
-<p align="left"> </p>
 
 
 
