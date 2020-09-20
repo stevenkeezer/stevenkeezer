@@ -4,7 +4,7 @@
 
 <h3> Hello There.</h3>
 
-<img src="https://github.com/ayushkumar-25/ayushkumar-25/blob/master/aboutMe.png">
+<img src="https://i.imgur.com/zUqwpbO.png">
 
 
 
