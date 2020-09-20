@@ -3,7 +3,8 @@
 </p>
 
 <h3>Why, hello there.</h3>
-https://carbon.now.sh/ 
+![](https://github.com/ayushkumar-25/ayushkumar-25/blob/master/aboutMe.png)
+
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 
