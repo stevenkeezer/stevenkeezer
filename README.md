@@ -44,7 +44,7 @@ I usually build cool, interesting websites or tools for fun and for learning usi
     </tr>
   </tbody>
 </table>
-  <i>A good code is like a story, not a puzzle.</i><br/>
+
 <img src="https://visitor-badge.glitch.me/badge?page_id=ayushkumar-25.ayushkumar-25"/>
 </p>
 
