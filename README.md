@@ -3,6 +3,7 @@
 </p>
 
 <h3>Why, hello there.</h3>
+https://carbon.now.sh/ -->
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 
@@ -19,7 +20,7 @@
       </td>
       <td width="25%" align="center">
         <span>𝗝𝗮𝘃𝗮</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
