@@ -3,7 +3,7 @@
 </p>
 
 <h3>Why, hello there.</h3>
-![](https://github.com/ayushkumar-25/ayushkumar-25/blob/master/aboutMe.png)
+![test](https://github.com/ayushkumar-25/ayushkumar-25/blob/master/aboutMe.png)
 
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
@@ -66,4 +66,4 @@ I'm always interested in meeting new people, so feel free to reach out to me usi
 
 
 
-⭐️ From [reisub0](https://github.com/[reisub0])
+
