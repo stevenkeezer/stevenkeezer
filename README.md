@@ -30,7 +30,7 @@ I usually build cool, interesting websites or tools for fun and for learning usi
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="25%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/graphql.svg">
