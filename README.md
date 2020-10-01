@@ -56,13 +56,6 @@ I usually build cool, interesting websites or tools for fun and for learning usi
 
 
 
-
-# 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
-
-- 💻 [cropswap](https://github.com/stevenkeezer/cropswap)
-
-
-
 I'm always interested in meeting new people, so feel free to reach out to me using the links below.
 
 <p align="">
