@@ -16,7 +16,7 @@ I usually build cool, interesting websites or tools for fun and for learning usi
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
       </td>
       <td width="25%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
@@ -30,10 +30,10 @@ I usually build cool, interesting websites or tools for fun and for learning usi
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/graphql.svg">
       </td>
       <td width="25%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
