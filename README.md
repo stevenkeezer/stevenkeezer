@@ -3,7 +3,7 @@
 
 Hi there, thanks for stopping by, this is Steven!
 
-I usually build cool, interesting websites or tools for fun and for learning using React.js and Python, welcome to scroll down to explore, maybe you will love them. 😁
+I usually build cool, interesting websites or tools for fun and for learning using React.js and Python, welcome to scroll down to explore, maybe you will dig them. 😁
  
 ---
 
@@ -53,7 +53,7 @@ I usually build cool, interesting websites or tools for fun and for learning usi
 
 <!-- <img src="https://i.imgur.com/zUqwpbO.png"> -->
 
-check out my [portfolio](https://www.stevenkeezer.com/) for some of my most recent projects
+check out my [portfolio](https://www.stevenkeezer.com/) for some of my most recent projects.
 
 
 I'm always interested in meeting new people, so feel free to reach out to me using the links below.
