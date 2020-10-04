@@ -21,6 +21,9 @@ I usually build cool, interesting websites or tools for fun and for learning usi
       <td width="25%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
       </td>
+       <td width="25%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/gatsby.svg">
+      </td>
       <td width="25%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
