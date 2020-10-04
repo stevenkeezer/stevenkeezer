@@ -56,12 +56,11 @@ I usually build cool, interesting websites or tools for fun and for learning usi
 check out my [portfolio](https://www.stevenkeezer.com/) for some of my most recent projects.
 
 
-I'm always interested in meeting new people, so feel free to reach out to me using the links below.
+I'm always interested in meeting new people, so feel free to reach out to me using the link below.
 
 <p align="">
   <a href="mailto:stevengkeezer@gmail.com"><img src="https://image.flaticon.com/icons/svg/725/725643.svg" height="20" width="20" style="margin-right: 3" /></a>
 </p>
-  <a href="https://linkedin.com/in/govind-kp"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20"     width="20" /></a>
 
 
 
