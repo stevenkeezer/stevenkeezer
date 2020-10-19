@@ -1,7 +1,7 @@
 
 <!-- You can edit this image in paint and host the image on https://sm.ms/ -->
 
-Hi there, thanks for stopping by, this is Steven!
+Hi, I am Steven.
 
 I usually build cool, interesting websites or tools for fun and for learning using React.js and Python, welcome to scroll down to explore, maybe you will dig them. 😁
  
