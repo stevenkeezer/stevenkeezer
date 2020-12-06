@@ -1,9 +1,7 @@
 
 <!-- You can edit this image in paint and host the image on https://sm.ms/ -->
 
-Hi, I am Steven.
-
-I build cool, interesting websites or tools for fun and for learning using React.js and Python, welcome to scroll down to explore, maybe you will dig them.
+Hi, I am Steven. I build cool, interesting websites or tools for fun and for learning using React.js and Python.
  
 
 <p align="center">
