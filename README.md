@@ -35,7 +35,7 @@ Hi, I am Steven. I build cool, interesting websites or tools for fun and for lea
         <img height="64px" src="https://cdn.svgporn.com/logos/gatsby.svg">
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
       </td>
     </tr>
   </tbody>
