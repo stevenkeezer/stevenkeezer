@@ -50,11 +50,7 @@ Hi, I am Steven. I build cool, interesting websites or tools for fun and for lea
 
 
 
-I'm always interested in meeting new people, so feel free to reach out to me using the link below.
-
-<p align="">
-  <a href="mailto:stevengkeezer@gmail.com"><img src="https://image.flaticon.com/icons/svg/725/725643.svg" height="20" width="20" style="margin-right: 3" /></a>
-</p>
+I'm always interested in meeting new people, so feel free to reach out.
 
 
 
