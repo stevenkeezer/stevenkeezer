@@ -11,6 +11,9 @@ Hi, I am Steven. I build cool, interesting websites or tools for fun and for lea
 <table>
   <tbody>
     <tr valign="top">
+     <td width="25%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
       <td width="25%" align="center">
          <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
       </td>
@@ -19,9 +22,6 @@ Hi, I am Steven. I build cool, interesting websites or tools for fun and for lea
       </td>
       <td width="25%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
     </tr>
     <tr valign="top">
