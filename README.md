@@ -18,7 +18,7 @@ Hi, I am Steven. I build cool, interesting websites or tools for fun and for lea
         <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
       </td>
       <td width="25%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
