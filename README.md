@@ -12,30 +12,30 @@ Hi, I am Steven. I build cool, interesting websites or tools for fun and for lea
   <tbody>
     <tr valign="top">
      <td width="25%" align="center">
-        <img height="24px" src="https://cdn.svgporn.com/logos/react.svg">
+        <img height="44px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="25%" align="center">
-         <img height="24px" style={padding-top: 10px; padding-bottom: 10px;} src="https://cdn.svgporn.com/logos/typescript.svg">
+         <img height="44px" style={padding-top: 10px; padding-bottom: 10px;} src="https://cdn.svgporn.com/logos/typescript.svg">
       </td>
       <td width="25%" align="center">
-        <img height="24px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+        <img height="44px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
       </td>
       <td width="25%" align="center">
-        <img height="24px" src="https://cdn.svgporn.com/logos/nextjs.svg">
+        <img height="44px" src="https://cdn.svgporn.com/logos/nextjs.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-         <img height="24px" src="https://cdn.svgporn.com/logos/python.svg">
+         <img height="44px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="25%" align="center">
-        <img height="24px" src="https://cdn.svgporn.com/logos/graphql.svg">
+        <img height="44px" src="https://cdn.svgporn.com/logos/graphql.svg">
       </td>
        <td width="25%" align="center">
-        <img height="24px" src="https://cdn.svgporn.com/logos/gatsby.svg">
+        <img height="44px" src="https://cdn.svgporn.com/logos/gatsby.svg">
       </td>
       <td width="25%" align="center">
-        <img height="24px" src="https://cdn.svgporn.com/logos/redux.svg">
+        <img height="44px" src="https://cdn.svgporn.com/logos/redux.svg">
       </td>
     </tr>
   </tbody>
